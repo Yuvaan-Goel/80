@@ -1,0 +1,9 @@
+#showPara1, #showPara2 {
+    width: 100%;
+    margin: 10px;
+}
+
+div {
+    margin: 10px;
+    width: 50%;
+}
